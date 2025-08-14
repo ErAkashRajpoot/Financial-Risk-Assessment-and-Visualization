@@ -33,10 +33,6 @@ This project focuses on analyzing financial risk associated with loan data using
 - 🏷️ **Segmented Insights** on income group, employment type, and risk level.
 - 💡 **Decision Support** tools for credit teams and business analysts.
 
-## 📸 Sample Dashboard Screenshots
-
-> *Add screenshots or GIFs here showcasing key visuals from your Power BI dashboard.*
-
 ## ✅ Outcomes
 
 - Identified that **32% of high-income customers were defaulting**, contrary to assumptions.
